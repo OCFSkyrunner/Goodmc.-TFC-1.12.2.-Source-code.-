@@ -1,9 +1,10 @@
-## Welcome to GitHub Pages
+## Приветствуем на проекте GoodMC. TFC 1.12.2 EXPEREMENTAL
 
-You can use the [editor on GitHub](https://github.com/Envel-Nikita-Gutsenkov/Goodmc.-TFC-1.12.2.-Source-code.-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[GoodMC](https://goodmc.ru/) - некоммерческий проект Minecraft, сузествующий с 2011 года.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Мы задумались над возможностью создания лучшей сборки TFC из-за разработки новой версии этого мода. Пока что мы просто эксперементируем, посмотрим, что получится :) 
 
+Далее читать не нужно. В этапе заполнения.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
