@@ -51,6 +51,7 @@ tfc.tooltip.blast_furnace_melt_amount=Melt
 tfc.tooltip.large_vessel_seal=Seal Large Vessel
 tfc.tooltip.large_vessel_unseal=Unseal Large Vessel
 tfc.tooltip.goldpan.chunkworked=This area seems to be overworked. You probably wouldn't find much.
+tfc.tooltip.smithing_skill=Skill Bonus: %0.1f%%
 
 ## Animal Tooltips / Messages
 tfc.tooltip.animal.old=This animal is too old to mate.
@@ -91,6 +92,17 @@ tfc.food_traits.salted=Salted
 tfc.food_traits.pickled=Pickled
 tfc.food_traits.pickled_active=Pickling
 tfc.food_traits.preserved=Preserved
+
+## Skills
+tfc.skill.prospecting=Prospecting: %s
+tfc.skill.smithing=Smithing: %s
+tfc.skill.agriculture=Agriculture: %s
+tfc.skill.butchering=Butchering: %s
+
+tfc.enum.skilltier.novice=Novice
+tfc.enum.skilltier.adept=Adept
+tfc.enum.skilltier.expert=Expert
+tfc.enum.skilltier.master=Master
 
 ## Keybindings
 tfc.key.craft=Crafting GUI
@@ -246,6 +258,9 @@ config.tfc.general.regenPlants.tooltip=How fast plants regenerate, in scale of m
 
 config.tfc.general.regenCrops=Wild Crops and Berry Bushes Regeneration
 config.tfc.general.regenCrops.tooltip=How fast wild crops and berry bushes regenerate, in scale of months. Use 0 to disable it entirely.
+
+config.tfc.general.foodDecayStackTime=Food Decay Stack Time
+config.tfc.general.foodDecayStackTime.tooltip=The number of hours to which initial food decay will be synced. When a food item is dropped, it's initial expiration date will be rounded to the closest multiple of this (in hours).
 
 ## Client Config
 config.tfc.general.woodenBucketWhitelist=Wooden Bucket Fluid Whitelist
@@ -535,6 +550,7 @@ tile.tfc.debug.name=TFC Debug Block
 tile.tfc.placed_item.name=Placed Items
 tile.tfc.placed_item_flat.name=Debris
 tile.tfc.pit_kiln.name=Pit Kiln
+tile.tfc.charcoal_forge.name=Charcoal Forge
 tile.tfc.peat.name=Peat
 tile.tfc.peat_grass.name=Peat Grass
 tile.tfc.thatch.name=Thatch
