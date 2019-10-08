@@ -3,174 +3,174 @@
 # Gui
 
 ## Tooltips
-tfc.tooltip.toolclass=§fTool Class:§7 %s
-tfc.tooltip.toolclasses=§fTool Classes:
+tfc.tooltip.toolclass=§fКласс инструмента:§7 %s
+tfc.tooltip.toolclasses=§fКлассы инструмента:
 tfc.tooltip.oredictionaryentry=§fOre Dictionary name:§7 %s
 tfc.tooltip.oredictionaryentries=§fOre Dictionary names:
-tfc.tooltip.metal=§fMetal:§7 %s
-tfc.tooltip.units=%d units
-tfc.tooltip.smelting=Smelt in %s
-tfc.tooltip.liquid=Liquid
-tfc.tooltip.barrel_empty=Empty
-tfc.tooltip.barrel_fluid=Contains %1$d mB of %2$s
+tfc.tooltip.metal=§fМеталл:§7 %s
+tfc.tooltip.units=%d едениц(ы)
+tfc.tooltip.smelting=Закончит через %s
+tfc.tooltip.liquid=Жидкость
+tfc.tooltip.barrel_empty=Пусто
+tfc.tooltip.barrel_fluid=Содержит %1$d mB %2$s
 tfc.tooltip.barrel_fluid_amount=%d mB
-tfc.tooltip.barrel_item=Contains %1$dx %2$s
-tfc.tooltip.barrel_item_in_fluid= and %1$dx %2$s
-tfc.tooltip.small_vessel_empty=Empty
+tfc.tooltip.barrel_item=Содержит %1$dx %2$s
+tfc.tooltip.barrel_item_in_fluid= и %1$dx %2$s
+tfc.tooltip.small_vessel_empty=Пусто
 tfc.tooltip.small_vessel_item=%1$dx %2$s
-tfc.tooltip.weldable=Can Weld
-tfc.tooltip.workable=Can Work
-tfc.tooltip.danger=Danger!!
-tfc.tooltip.anvil_plan=Plans
-tfc.tooltip.anvil_tier_too_low=This Anvil is too low tier!
-tfc.tooltip.anvil_no_flux=There is no flux in the anvil!
-tfc.tooltip.anvil_too_cold=The item(s) are not hot enough to work!
-tfc.tooltip.anvil_no_hammer=There is no hammer in the anvil!
-tfc.tooltip.crucible_result=Result:
-tfc.tooltip.barrel_seal=Seal Barrel
-tfc.tooltip.barrel_unseal=Unseal Barrel
-tfc.tooltip.barrel_cooling=Cooling
-tfc.tooltip.calendar=Calendar
-tfc.tooltip.season=Season : %s
-tfc.tooltip.day=Day : %s
-tfc.tooltip.date=Date : %s
+tfc.tooltip.weldable=Можно варить
+tfc.tooltip.workable=Можно стукать
+tfc.tooltip.danger=Опасно!!
+tfc.tooltip.anvil_plan=Чертежи
+tfc.tooltip.anvil_tier_too_low=Неподходящий уровень наковальни!
+tfc.tooltip.anvil_no_flux=Отсутствует флюс!
+tfc.tooltip.anvil_too_cold=Предмет(ы) слишком холодные для обработки!
+tfc.tooltip.anvil_no_hammer=Молот забыл!
+tfc.tooltip.crucible_result=Результат:
+tfc.tooltip.barrel_seal=Запечатать бочку
+tfc.tooltip.barrel_unseal=Распечатать бочку
+tfc.tooltip.barrel_cooling=Охлаждение
+tfc.tooltip.calendar=Календарь
+tfc.tooltip.season=Время года : %s
+tfc.tooltip.day=День : %s
+tfc.tooltip.date=Дата : %s
 tfc.tooltip.debug_times=TT: %d | PT: %d | CT: %d
-tfc.tooltip.food_expiry_date=Expires on: %s
-tfc.tooltip.food_rotten=Rotten - I wouldn't eat that.
-tfc.tooltip.food_infinite_expiry=Never Expires
-tfc.tooltip.plant_cold=%sToo cold%s
-tfc.tooltip.plant_dry=%sToo dry%s
-tfc.tooltip.plant_hot=%sToo hot%s
-tfc.tooltip.plant_rain=Rainfall:
-tfc.tooltip.plant_temp=Temperature:
-tfc.tooltip.plant_valid=%sGood%s
-tfc.tooltip.plant_wet=%sToo wet%s
-tfc.tooltip.blast_furnace_ore_amount=Ore
-tfc.tooltip.blast_furnace_fuel_amount=Fuel
-tfc.tooltip.blast_furnace_melt_amount=Melt
-tfc.tooltip.large_vessel_seal=Seal Large Vessel
-tfc.tooltip.large_vessel_unseal=Unseal Large Vessel
-tfc.tooltip.goldpan.chunkworked=This area seems to be overworked. You probably wouldn't find much.
-tfc.tooltip.smithing_skill=Skill Bonus: %0.1f%%
+tfc.tooltip.food_expiry_date=Годен до: %s
+tfc.tooltip.food_rotten=Гнилое - есть не собираюсь.
+tfc.tooltip.food_infinite_expiry=Без срока годности
+tfc.tooltip.plant_cold=%sСлишком холодно%s
+tfc.tooltip.plant_dry=%sСлишком сухо%s
+tfc.tooltip.plant_hot=%sСлишком жарко%s
+tfc.tooltip.plant_rain=Осадки:
+tfc.tooltip.plant_temp=Температура:
+tfc.tooltip.plant_valid=%sНорм%s
+tfc.tooltip.plant_wet=%sСлишком влажно%s
+tfc.tooltip.blast_furnace_ore_amount=Руда
+tfc.tooltip.blast_furnace_fuel_amount=Топливо
+tfc.tooltip.blast_furnace_melt_amount=Выплавлено
+tfc.tooltip.large_vessel_seal=Запечатать большой сосуд
+tfc.tooltip.large_vessel_unseal=Распечатать большой сосуд
+tfc.tooltip.goldpan.chunkworked=Эта зона отработана. Здесь больше ничего не найти.
+tfc.tooltip.smithing_skill=Бонус кузнеца: %0.1f%%
 
 ## Animal Tooltips / Messages
-tfc.tooltip.animal.old=This animal is too old to mate.
-tfc.tooltip.animal.lowfamiliarity=This animal has low familiarity to mate.
-tfc.tooltip.animal.pregnant=This female is pregnant!
-tfc.tooltip.animal.resting=This animal is resting from today's mating.
+tfc.tooltip.animal.old=Это животное слишком старо для спаривания.
+tfc.tooltip.animal.lowfamiliarity=Это животное недостаточно одомашнено для спаривания.
+tfc.tooltip.animal.pregnant=Самка беременна!
+tfc.tooltip.animal.resting=Это животное отдыхает после спаривания.
 
-tfc.tooltip.animal.milk.male=This is a bull!
-tfc.tooltip.animal.milk.old=This cow is too old to be milked.
-tfc.tooltip.animal.milk.child=This cow is too young to be milked.
-tfc.tooltip.animal.milk.lowfamiliarity=This cow has low familiarity to let you milk it.
-tfc.tooltip.animal.milk.empty=This cow has been milked today.
+tfc.tooltip.animal.milk.male=Это бык!
+tfc.tooltip.animal.milk.old=Эта корова слишком стара для доения.
+tfc.tooltip.animal.milk.child=Эта корова слишком молода для доения.
+tfc.tooltip.animal.milk.lowfamiliarity=Эта корова недостаточно одомашнена для доения.
+tfc.tooltip.animal.milk.empty=Эта корова уже была подоена сегодня.
 
 ## Command Tooltips / Messages
-tfc.tooltip.set_month_length=Set Month Length to %d days.
-tfc.tooltip.time_command_set_player_time=Set Player Time to %d.
-tfc.tooltip.time_command_set_calendar_time=Set Calendar Time to %s.
-tfc.tooltip.time_command_disabled=This command has been disabled by TFC. Use /timetfc instead!
+tfc.tooltip.set_month_length=Длина месяца теперь %d дней.
+tfc.tooltip.time_command_set_player_time=Время игрока поставлено на %d.
+tfc.tooltip.time_command_set_calendar_time=Календарь переведен на %s.
+tfc.tooltip.time_command_disabled=Эта команда была выключена TFC. Используй /timetfc!
 
 ## Prospecting Result Messages
-tfc.propick.found=Found
-tfc.propick.found_traces=Found traces of
-tfc.propick.found_small=Found a small sample of
-tfc.propick.found_medium=Found a medium sample of
-tfc.propick.found_large=Found a large sample of
-tfc.propick.found_very_large=Found a very large sample of
-tfc.propick.found_nothing=Found nothing of interest.
+tfc.propick.found=Найден
+tfc.propick.found_traces=Найдены следы
+tfc.propick.found_small=Найдена маленькая проба
+tfc.propick.found_medium=Найдена средняя проба
+tfc.propick.found_large=Найдена большая проба
+tfc.propick.found_very_large=Найдена огромная проба
+tfc.propick.found_nothing=Ничего не найдено.
 
 ## Thatch Bed
-tfc.thatch_bed.spawnpoint=Spawn point set.
-tfc.thatch_bed.not_thundering=This bed is too uncomfortable to sleep.
+tfc.thatch_bed.spawnpoint=Спавн установлен.
+tfc.thatch_bed.not_thundering=Эта кровать слишком некомфортная для сна.
 
 ## Food Traits
-tfc.food_traits.smoked=Smoked
-tfc.food_traits.brined=Brined
-tfc.food_traits.brined_active=Brining
-tfc.food_traits.salted=Salted
-tfc.food_traits.pickled=Pickled
-tfc.food_traits.pickled_active=Pickling
-tfc.food_traits.preserved=Preserved
+tfc.food_traits.smoked=Копченое
+tfc.food_traits.brined=Засолено
+tfc.food_traits.brined_active=Засаливается
+tfc.food_traits.salted=Посолено
+tfc.food_traits.pickled=Мариновано
+tfc.food_traits.pickled_active=Маринуется
+tfc.food_traits.preserved=Закатано
 
 ## Skills
-tfc.skill.prospecting=Prospecting: %s
-tfc.skill.smithing=Smithing: %s
-tfc.skill.agriculture=Agriculture: %s
-tfc.skill.butchering=Butchering: %s
+tfc.skill.prospecting=Рудоискатель: %s
+tfc.skill.smithing=Кузнечество: %s
+tfc.skill.agriculture=Фермерство: %s
+tfc.skill.butchering=Разделывание: %s
 
-tfc.enum.skilltier.novice=Novice
-tfc.enum.skilltier.adept=Adept
-tfc.enum.skilltier.expert=Expert
-tfc.enum.skilltier.master=Master
+tfc.enum.skilltier.novice=Новичок
+tfc.enum.skilltier.adept=Знаток
+tfc.enum.skilltier.expert=Эксперт
+tfc.enum.skilltier.master=Мастер
 
 ## Keybindings
-tfc.key.craft=Crafting GUI
+tfc.key.craft=Окно создания
 tfc.key.placeblock=Place Item Holder Block
 
 ## Gui.World
 createWorld.customize.custom.spawnfuzz=Spawn Fuzzing Radius
-createWorld.customize.custom.flatbedrock=Flat Bedrock
-createWorld.customize.custom.ravineRarity=Ravine Rarity
-createWorld.customize.custom.ravineHeight=Ravine Height
-createWorld.customize.custom.ravineVariability=Ravine Variability
-createWorld.customize.custom.surfaceRavineRarity=Surface Ravine Rarity
-createWorld.customize.custom.surfaceRavineHeight=Surface Ravine Height
-createWorld.customize.custom.surfaceRavineVariability=Surface Ravine Variability
-createWorld.customize.custom.riverRavineRarity=River Ravine Rarity
+createWorld.customize.custom.flatbedrock=Плоская коренная порода
+createWorld.customize.custom.ravineRarity=Редкость оврагов
+createWorld.customize.custom.ravineHeight=Высота оврага
+createWorld.customize.custom.ravineVariability=Вариативность оврагов
+createWorld.customize.custom.surfaceRavineRarity=Редкость поверхностных оврагов
+createWorld.customize.custom.surfaceRavineHeight=Высота поверхностных оврагов
+createWorld.customize.custom.surfaceRavineVariability=Вариативность поверхностных оврагов
+createWorld.customize.custom.riverRavineRarity=Редкость речных оврагов
 
 # Config
 config.tfc=TerraFirmaCraft
-config.tfc.tooltip=Settings for TerraFirmaCraft
+config.tfc.tooltip=Настройки для TerraFirmaCraft
 
 ## General Config
-config.tfc.general=General Settings
-config.tfc.general.toolip=Non side specific settings.
+config.tfc.general=Главные настройки
+config.tfc.general.toolip=Не конкретные настройки.
 
-config.tfc.general.debug=Debug Mode
+config.tfc.general.debug=Режим отладки
 config.tfc.general.debug.tooltip=Various debug options. Activates some extra wand features. Enables extra item tooltips.
 
-config.tfc.general.removeVanillaRecipes=Remove Vanilla Recipes
-config.tfc.general.removeVanillaRecipes.tooltip=Enable/Disable the vanilla recipe removal spam. False = Those recipes are left in place.
+config.tfc.general.removeVanillaRecipes=Убрать ванильныые рецепты
+config.tfc.general.removeVanillaRecipes.tooltip=Включить/Выключить ванильные рецепты. False = Эти рецепты останутся на месте.
 
-config.tfc.general.removeVanillaLoots=Remove Vanilla Loots
-config.tfc.general.removeVanillaLoots.tooltip=Enable/Disable the vanilla loot entries that conflict with TFC (ie: potatoes). False = Those loot entries are left in place.
+config.tfc.general.removeVanillaLoots=Убрать ванильный лут
+config.tfc.general.removeVanillaLoots.tooltip=Включить/Выключить ванильный лут который конфликтует с TFC (т.к. картошка). False = Лут продолжит выпадать.
 
-config.tfc.general.leafStickDropChance=Leaf Stick Drop Chance
-config.tfc.general.leafStickDropChance.tooltip=Normal leaf drop chance for sticks
+config.tfc.general.leafStickDropChance=Шанс выпадения палок из листьев
+config.tfc.general.leafStickDropChance.tooltip=Обычное выпадение палок
 
-config.tfc.general.leafStickDropChanceBonus=Bonus Leaf Stick Drop Chance
-config.tfc.general.leafStickDropChanceBonus.tooltip=Bonus leaf drop chance for sticks
+config.tfc.general.leafStickDropChanceBonus=Дополнительные палки с лисьтев
+config.tfc.general.leafStickDropChanceBonus.tooltip=Экстра палки к тем что уже есть
 
-config.tfc.general.leafStickDropChanceBonusClasses=Leaf Stick Drop Chance Tool Classes
-config.tfc.general.leafStickDropChanceBonusClasses.tooltip=Bonus leaf drop stick chance for sticks tool classes
+config.tfc.general.leafStickDropChanceBonusClasses=Шанс выпадения палок с инструментом
+config.tfc.general.leafStickDropChanceBonusClasses.tooltip=Бонусные палки в зависимости от класса инструмента
 
-config.tfc.general.stoneGemDropChance=Stone Gem Drop Chance
-config.tfc.general.stoneGemDropChance.tooltip=Chance of any gem to drop from raw stone
+config.tfc.general.stoneGemDropChance=Шанс выпадение драгоцценных камней
+config.tfc.general.stoneGemDropChance.tooltip=Шанс, с которым драгоценные камни выпадают из обычного камня
 
-config.tfc.general.temperatureModifierGlobal=Global Temperature Modifier
-config.tfc.general.temperatureModifierGlobal.tooltip=Modifier for how quickly items gains and loses heat. Smaller number = slower temperature changes.
+config.tfc.general.temperatureModifierGlobal=Изменение температуры
+config.tfc.general.temperatureModifierGlobal.tooltip=Как быстро предметы будут нагреваться и охлаждаться. Меньше число = медленнее изменения.
 
-config.tfc.general.temperatureModifierHeating=Heating Temperature Modifier
-config.tfc.general.temperatureModifierHeating.tooltip=Modifier for how quickly devices (i.e. charcoal forge, firepit) gain and lose heat. Smaller number = slower temperature changes.
+config.tfc.general.temperatureModifierHeating=Изменение нагрева
+config.tfc.general.temperatureModifierHeating.tooltip=Как быстро приспособления (По типу угольной печи или костра) нагреваются и остывают. Меньше число = медленнее изменение нагрева.
 
-config.tfc.general.foodDecayModifier=Food Decay Modifier
-config.tfc.general.foodDecayModifier.tooltip=Modifier for how quickly food will decay. Larger values = faster decay. Set to 0 for infinite expiration time
+config.tfc.general.foodDecayModifier=Гниение еды
+config.tfc.general.foodDecayModifier.tooltip=Как быстро еда будет гнить. Больше число = быстрее разложение. Установи на 0, чтобы еда вообще не гнила.
 
-config.tfc.general.pitKilnTime=Pit Kiln Time
-config.tfc.general.pitKilnTime.tooltip=Number of ticks required for a pit kiln to burn out. (1000 = 1 in game hour = 50 seconds), default is 8 hours.
+config.tfc.general.pitKilnTime=Время обжига глины
+config.tfc.general.pitKilnTime.tooltip=Количество тиков необходимых для обжига. (1000 = 1 игровой час = 50 секунд), норма 8 часов.
 
-config.tfc.general.torchTime=Torch Burnout Time
-config.tfc.general.torchTime.tooltip=Number of ticks required for a torch to burn out (1000 = 1 in game hour = 50 seconds), default is 72 hours. Set to -1 to disable torch burnout.
+config.tfc.general.torchTime=Время горения факела
+config.tfc.general.torchTime.tooltip=Количество тиков необходимое для выгорания факела (1000 = 1 игровой час = 50 секунд), норма 72 часа. Поставь -1 ,чтобы убрать выгорание вообще.
 
-config.tfc.general.bloomeryTime=Bloomery Time
-config.tfc.general.bloomeryTime.tooltip=Number of ticks required for a bloomery to complete. (1000 = 1 in game hour = 50 seconds), default is 15 hours.
+config.tfc.general.bloomeryTime=Время горения горна
+config.tfc.general.bloomeryTime.tooltip=Количество тиков необходимых для полной работы горна. (1000 = 1 игровой час = 50 секунд), норма 15 часов.
 
-config.tfc.general.plantGrowthRate=Plant Growth Rate
-config.tfc.general.plantGrowthRate.tooltip=Percentage chance that plants will grow each update. Smaller number = slower.
+config.tfc.general.plantGrowthRate=Темп роста культур
+config.tfc.general.plantGrowthRate.tooltip=Процентный шанс на рост культуры на одну стадию. Меньше число = медленнее рост.
 
-config.tfc.general.fireStarterChance=Firestarter Success Chance
-config.tfc.general.fireStarterChance.tooltip=Chance for the fire starter to be successful
+config.tfc.general.fireStarterChance=Шанс розжига костра
+config.tfc.general.fireStarterChance.tooltip=Шанс успешно развести костер
 
 config.tfc.general.playerNutritionDecayModifier=Player Nutrition Decay Modifier
 config.tfc.general.playerNutritionDecayModifier.tooltip=Modifier for how quickly the players nutrition values will decay
