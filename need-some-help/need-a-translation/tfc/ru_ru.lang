@@ -81,28 +81,28 @@ tfc.propick.found_very_large=Found a very large sample of
 tfc.propick.found_nothing=Found nothing of interest.
 
 ## Thatch Bed
-tfc.thatch_bed.spawnpoint=Spawn point set.
-tfc.thatch_bed.not_thundering=This bed is too uncomfortable to sleep.
+tfc.thatch_bed.spawnpoint=Точка возрождения установлена
+tfc.thatch_bed.not_thundering=Эта кровать слишком неудобна для сна
 
 ## Food Traits
-tfc.food_traits.smoked=Smoked
-tfc.food_traits.brined=Brined
-tfc.food_traits.brined_active=Brining
-tfc.food_traits.salted=Salted
-tfc.food_traits.pickled=Pickled
-tfc.food_traits.pickled_active=Pickling
-tfc.food_traits.preserved=Preserved
+tfc.food_traits.smoked=Копчёный
+tfc.food_traits.brined=Засоленый
+tfc.food_traits.brined_active=Засаливается
+tfc.food_traits.salted=Солёный
+tfc.food_traits.pickled=Маринованный
+tfc.food_traits.pickled_active=Маринуется
+tfc.food_traits.preserved=Консервированный
 
 ## Skills
-tfc.skill.prospecting=Prospecting: %s
-tfc.skill.smithing=Smithing: %s
-tfc.skill.agriculture=Agriculture: %s
-tfc.skill.butchering=Butchering: %s
+tfc.skill.prospecting=Геолого-разведка: %s
+tfc.skill.smithing=Кузнечное дело: %s
+tfc.skill.agriculture=Земледелие: %s
+tfc.skill.butchering=Разделка животных: %s
 
-tfc.enum.skilltier.novice=Novice
-tfc.enum.skilltier.adept=Adept
-tfc.enum.skilltier.expert=Expert
-tfc.enum.skilltier.master=Master
+tfc.enum.skilltier.novice=Новичок
+tfc.enum.skilltier.adept=Знаток
+tfc.enum.skilltier.expert=Эксперт
+tfc.enum.skilltier.master=Мастер
 
 ## Keybindings
 tfc.key.craft=Crafting GUI
@@ -367,43 +367,43 @@ tfc.enum.tier.tier_v=Tier V
 tfc.enum.tier.tier_vi=Tier VI
 
 ## Size
-tfc.enum.size.tiny=Tiny
-tfc.enum.size.very_small=Very Small
-tfc.enum.size.small=Small
-tfc.enum.size.normal=Normal
-tfc.enum.size.large=Large
-tfc.enum.size.very_large=Very Large
-tfc.enum.size.huge=Huge
+tfc.enum.size.tiny=Крошечный
+tfc.enum.size.very_small=Очень маленький
+tfc.enum.size.small=Маленький
+tfc.enum.size.normal=Средний
+tfc.enum.size.large=Большой
+tfc.enum.size.very_large=Очень большой
+tfc.enum.size.huge=Огромный
 
 ## Weight
-tfc.enum.weight.light=Light
-tfc.enum.weight.medium=Medium
-tfc.enum.weight.heavy=Heavy
+tfc.enum.weight.light=Легкий
+tfc.enum.weight.medium=Средний
+tfc.enum.weight.heavy=Тяжелый
 
 ## Heat
-tfc.enum.heat.warming=Warming
-tfc.enum.heat.hot=Hot
-tfc.enum.heat.very_hot=Very Hot
-tfc.enum.heat.faint_red=Faint Red
-tfc.enum.heat.dark_red=Dark Red
-tfc.enum.heat.bright_red=Bright Red
-tfc.enum.heat.orange=Orange
-tfc.enum.heat.yellow=Yellow
-tfc.enum.heat.yellow_white=Yellow White
-tfc.enum.heat.white=White
-tfc.enum.heat.brilliant_white=Brilliant White
+tfc.enum.heat.warming=Подогревается
+tfc.enum.heat.hot=Горячо
+tfc.enum.heat.very_hot=Очень горячо
+tfc.enum.heat.faint_red=Начинает краснеть
+tfc.enum.heat.dark_red=Краснеет
+tfc.enum.heat.bright_red=Ярко краснеет
+tfc.enum.heat.orange=Раскаляется
+tfc.enum.heat.yellow=Желтеет
+tfc.enum.heat.yellow_white=Желтеет добела
+tfc.enum.heat.white=Белеет
+tfc.enum.heat.brilliant_white=Белеет до блеска
 
-tfc.enum.heat.torch.catching_fire=Catching Fire
-tfc.enum.heat.torch.lit=Lit
+tfc.enum.heat.torch.catching_fire=На огне
+tfc.enum.heat.torch.lit=Зажжён
 
-tfc.enum.forge_step.hit_light=Light Hit
-tfc.enum.forge_step.hit_medium=Medium Hit
-tfc.enum.forge_step.hit_hard=Hard Hit
-tfc.enum.forge_step.draw=Draw
-tfc.enum.forge_step.bend=Bend
-tfc.enum.forge_step.punch=Punch
-tfc.enum.forge_step.shrink=Shrink
-tfc.enum.forge_step.upset=Upset
+tfc.enum.forge_step.hit_light=Слабый удар
+tfc.enum.forge_step.hit_medium=Средний удар
+tfc.enum.forge_step.hit_hard=Сильный удар
+tfc.enum.forge_step.draw=Протянуть
+tfc.enum.forge_step.bend=Изогнуть
+tfc.enum.forge_step.punch=Штамповать
+tfc.enum.forge_step.shrink=Усадить
+tfc.enum.forge_step.upset=Обжать
 
 tfc.enum.forgerule.hit_any=Hit Any
 tfc.enum.forgerule.hit_not_last=Hit Not Last
@@ -437,45 +437,45 @@ tfc.enum.forgerule.shrink_second_last=Shrink Second Last
 tfc.enum.forgerule.shrink_third_last=Shrink Third Last
 
 
-tfc.enum.season.january=Winter
-tfc.enum.season.february=Late Winter
-tfc.enum.season.march=Early Spring
-tfc.enum.season.april=Spring
-tfc.enum.season.may=Late Spring
-tfc.enum.season.june=Early Summer
-tfc.enum.season.july=Summer
-tfc.enum.season.august=Late Summer
-tfc.enum.season.september=Early Autumn
-tfc.enum.season.october=Autumn
-tfc.enum.season.november=Late Autumn
-tfc.enum.season.december=Early Winter
+tfc.enum.season.january=Зима
+tfc.enum.season.february=Конец зимы
+tfc.enum.season.march=Начало весны
+tfc.enum.season.april=Весна
+tfc.enum.season.may=Конец весны
+tfc.enum.season.june=Начало лета
+tfc.enum.season.july=Лето
+tfc.enum.season.august=Конец лета
+tfc.enum.season.september=Начало осени
+tfc.enum.season.october=Осень
+tfc.enum.season.november=Конец осени
+tfc.enum.season.december=Начало зимы
 
-tfc.enum.month.january=January
-tfc.enum.month.february=February
-tfc.enum.month.march=March
-tfc.enum.month.april=April
-tfc.enum.month.may=May
-tfc.enum.month.june=June
-tfc.enum.month.july=July
-tfc.enum.month.august=August
-tfc.enum.month.september=September
-tfc.enum.month.october=October
-tfc.enum.month.november=November
-tfc.enum.month.december=December
+tfc.enum.month.january=Январь
+tfc.enum.month.february=Февраль
+tfc.enum.month.march=Март
+tfc.enum.month.april=Апрель
+tfc.enum.month.may=Май
+tfc.enum.month.june=Июнь
+tfc.enum.month.july=Июль
+tfc.enum.month.august=Август
+tfc.enum.month.september=Сентябрь
+tfc.enum.month.october=Октябрь
+tfc.enum.month.november=Ноябрь
+tfc.enum.month.december=Декабрь
 
-tfc.enum.day.sunday=Sunday
-tfc.enum.day.monday=Monday
-tfc.enum.day.tuesday=Tuesday
-tfc.enum.day.wednesday=Wednesday
-tfc.enum.day.thursday=Thursday
-tfc.enum.day.friday=Friday
-tfc.enum.day.saturday=Saturday
+tfc.enum.day.sunday=Воскресенье
+tfc.enum.day.monday=Понедельник
+tfc.enum.day.tuesday=Вторник
+tfc.enum.day.wednesday=Среда
+tfc.enum.day.thursday=Четверг
+tfc.enum.day.friday=Пятница
+tfc.enum.day.saturday=Суббота
 
-tfc.enum.nutrient.carbohydrates=Carbohydrates
-tfc.enum.nutrient.fat=Fat
-tfc.enum.nutrient.protein=Protein
-tfc.enum.nutrient.minerals=Minerals
-tfc.enum.nutrient.vitamins=Vitamins
+tfc.enum.nutrient.carbohydrates=Углеводы
+tfc.enum.nutrient.fat=Жиры
+tfc.enum.nutrient.protein=Белки
+tfc.enum.nutrient.minerals=Минералы
+tfc.enum.nutrient.vitamins=Витамины
 
 #JEI
 jei.category.tfc.alloy=Alloying recipes
