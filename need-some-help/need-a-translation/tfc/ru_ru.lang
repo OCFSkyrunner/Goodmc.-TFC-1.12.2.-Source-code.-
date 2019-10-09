@@ -10,13 +10,13 @@ tfc.tooltip.oredictionaryentries=§fOre Dictionary names:
 tfc.tooltip.metal=§fМеталл:§7 %s
 tfc.tooltip.units=%d едениц
 tfc.tooltip.smelting=Выплавить в %s
-tfc.tooltip.liquid=Liquid
-tfc.tooltip.barrel_empty=Empty
+tfc.tooltip.liquid=Жидкость
+tfc.tooltip.barrel_empty=Пусто
 tfc.tooltip.barrel_fluid=Содержит %1$d mB из %2$s
 tfc.tooltip.barrel_fluid_amount=%d mB
 tfc.tooltip.barrel_item=Содержит %1$dx %2$s
 tfc.tooltip.barrel_item_in_fluid= и %1$dx %2$s
-tfc.tooltip.small_vessel_empty=Empty
+tfc.tooltip.small_vessel_empty=Пустой
 tfc.tooltip.small_vessel_item=%1$dx %2$s
 tfc.tooltip.weldable=Можно сваривать
 tfc.tooltip.workable=Можно ковать
@@ -27,17 +27,17 @@ tfc.tooltip.anvil_no_flux=Отсутствует флюс!
 tfc.tooltip.anvil_too_cold=Предмет не достаточно горячий, чтобы с ним работать!
 tfc.tooltip.anvil_no_hammer=Отсутствует молот!
 tfc.tooltip.crucible_result=Результат:
-tfc.tooltip.barrel_seal=Запечатанная бочка
-tfc.tooltip.barrel_unseal=Открытая бочка
+tfc.tooltip.barrel_seal=Запечатать
+tfc.tooltip.barrel_unseal=Вскрыть
 tfc.tooltip.barrel_cooling=Cooling
 tfc.tooltip.calendar=Календарь
-tfc.tooltip.season=Сезон : %s
-tfc.tooltip.day=День : %s
-tfc.tooltip.date=Дата : %s
+tfc.tooltip.season=Сезон: %s
+tfc.tooltip.day=День: %s
+tfc.tooltip.date=Дата: %s
 tfc.tooltip.debug_times=TT: %d | PT: %d | CT: %d
 tfc.tooltip.food_expiry_date=Истекает: %s
-tfc.tooltip.food_rotten=Гнилая - я бы не стал это есть.
-tfc.tooltip.food_infinite_expiry=не имеет срока годности
+tfc.tooltip.food_rotten=Гнилое - я бы не стал это есть.
+tfc.tooltip.food_infinite_expiry=Не имеет срока годности
 tfc.tooltip.plant_cold=%sСлишком холодный%s
 tfc.tooltip.plant_dry=%sСлишком сухой%s
 tfc.tooltip.plant_hot=%sСлишком горячий%s
@@ -48,8 +48,8 @@ tfc.tooltip.plant_wet=%sСлишком влажный%s
 tfc.tooltip.blast_furnace_ore_amount=Руда
 tfc.tooltip.blast_furnace_fuel_amount=Топливо
 tfc.tooltip.blast_furnace_melt_amount=Сплав
-tfc.tooltip.large_vessel_seal=Seal Large Vessel
-tfc.tooltip.large_vessel_unseal=Unseal Large Vessel
+tfc.tooltip.large_vessel_seal=Запечатать
+tfc.tooltip.large_vessel_unseal=Вскрыть
 tfc.tooltip.goldpan.chunkworked=This area seems to be overworked. You probably wouldn't find much.
 tfc.tooltip.smithing_skill=Skill Bonus: %0.1f%%
 
@@ -312,8 +312,8 @@ config.tfc.world.looseRocksFrequency.tooltip=The number of attempts per chunk to
 
 # Misc
 itemGroup.tfc.misc=TFC Разное
-itemGroup.tfc.rock.blocks=TFC Блоки камня и земли
-itemGroup.tfc.rock.items=TFC Каменные инструменты
+itemGroup.tfc.rock.blocks=TFC Блоки
+itemGroup.tfc.rock.items=TFC Камни
 itemGroup.tfc.wood=TFC Дерево
 itemGroup.tfc.decorations=TFC Декоративные блоки
 itemGroup.tfc.pottery=TFC Керамика
@@ -381,17 +381,17 @@ tfc.enum.weight.medium=Средний
 tfc.enum.weight.heavy=Тяжелый
 
 ## Heat
-tfc.enum.heat.warming=Подогревается
-tfc.enum.heat.hot=Горячо
-tfc.enum.heat.very_hot=Очень горячо
-tfc.enum.heat.faint_red=Начинает краснеть
-tfc.enum.heat.dark_red=Краснеет
-tfc.enum.heat.bright_red=Ярко краснеет
-tfc.enum.heat.orange=Раскаляется
-tfc.enum.heat.yellow=Желтеет
-tfc.enum.heat.yellow_white=Желтеет добела
-tfc.enum.heat.white=Белеет
-tfc.enum.heat.brilliant_white=Белеет до блеска
+tfc.enum.heat.warming=Нагревается
+tfc.enum.heat.hot=Горячий
+tfc.enum.heat.very_hot=Обжигающий
+tfc.enum.heat.faint_red=Тёмно-красный
+tfc.enum.heat.dark_red=Красный
+tfc.enum.heat.bright_red=Ярко-красный
+tfc.enum.heat.orange=Оранжевый
+tfc.enum.heat.yellow=Желтый
+tfc.enum.heat.yellow_white=Ярко-желтый
+tfc.enum.heat.white=Белый
+tfc.enum.heat.brilliant_white=Ярко-белый
 
 tfc.enum.heat.torch.catching_fire=На огне
 tfc.enum.heat.torch.lit=Зажжён
@@ -490,8 +490,8 @@ jei.category.tfc.loom=Loom recipes
 jei.category.tfc.quern=Quern recipes
 jei.category.tfc.welding=Welding recipes
 
-jei.tooltips.tfc.barrel.instant=Instant
-jei.tooltips.tfc.barrel.duration=%d hours
+jei.tooltips.tfc.barrel.instant=Почти готово
+jei.tooltips.tfc.barrel.duration=Часов: %d
 
 # Fluids
 fluid.salt_water=Солёная вода
@@ -2132,7 +2132,7 @@ tile.tfc.wall.smooth.gneiss.name=Gneiss Smooth Wall
 tile.tfc.wall.smooth.marble.name=Marble Smooth Wall
 
 # Plants
-itemGroup.tfc.flora=TFC Flora
+itemGroup.tfc.flora=TFC Растения
 tile.tfc.plants.allium.name=Allium
 tile.tfc.plants.athyrium_fern.name=Athyrium Fern
 tile.tfc.plants.badderlocks.name=Badderlocks
